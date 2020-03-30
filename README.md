@@ -10,3 +10,5 @@ This tool is used by both customers and SE's alike to configure consistent [Insi
 - [Cross platform](https://www.digitalocean.com/community/tutorials/building-go-applications-for-different-operating-systems-and-architectures)
 - [Scalable](https://github.com/spf13/cobra) 
 - Handle [static](https://github.com/bouk/staticfiles) resources easily 
+
+##  Build instructions 
